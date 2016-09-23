@@ -5,7 +5,9 @@
 <title>Untitled Document</title>
 </head>
 
+
 <?php
+//including menu.php
 include 'menu.php' 
 ?>
 <body>
@@ -52,5 +54,6 @@ include 'menu.php'
  </div>
 </div>
 <?php
-require 'footer.php';
+//including footer.php
+include 'footer.php';
 ?>

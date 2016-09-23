@@ -22,7 +22,7 @@
    <h1>Hello </h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia odio libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse hendrerit accumsan semper. Sed pellentesque eros at fringilla ullamcorper. Donec malesuada diam facilisis gravida malesuada.</p>
     <a class = "btn btn-default" href="pagetwo.php">About Us</a>
-    <a class = "btn btn-default" href="pagethree.php">Portofolio</a>
+    <a class = "btn btn-default" href="pagetwo.php">Portofolio</a>
   </div>
  </div>
 
